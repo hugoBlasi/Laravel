@@ -1,0 +1,52 @@
+
+   #all-form{
+    width: 100%;
+    margin-top: 120px;
+    display: flex;
+    flex-direction: column;
+    color: rgb(0, 0, 0);
+    align-items: center;
+    background-color: rgb(104, 104, 104);
+    border-radius: 30%;
+   }
+   
+   #sign-up{
+       width: 100%;
+       font-size: 30px;
+       margin-top: 120px;
+       display: flex;
+       flex-direction: column;
+       color: aliceblue;
+       align-items: center;
+       
+   }
+   .form{
+       width: 100%;
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+   align-items: center;
+
+}
+
+div{
+margin-top: 10px;
+}
+
+#password_confirmation{
+    margin-right:  80px;
+}
+#password{
+    margin-right:  25px;
+}
+
+#oui{
+    font-style: none;
+    color: white;
+    font-weight: bolder;
+   
+}
+#oui:hover{
+    background-color: grey;
+    transition: 1s;
+}
